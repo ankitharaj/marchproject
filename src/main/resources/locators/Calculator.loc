@@ -1,0 +1,6 @@
+
+
+Calculator.5.Button= com.android.calculator2:id/digit_5
+Calculator.7.Button= com.android.calculator2:id/digit_7
+Calculator.add.Button= com.android.calculator2:id/op_add
+Calculator.equal.Button= com.android.calculator2:id/eq

@@ -12,7 +12,7 @@ public class ResourceUtil {
 	public void initiateLocator() throws FileNotFoundException, IOException  {
 		
 		props= new Properties();
-		File file= new File("src/main/resources/locators/MyLocator.aaa");
+		File file= new File("src/main/resources/locators/Calculator.loc");
 		
 		props.load(new FileInputStream(file));
 	}
